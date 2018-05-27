@@ -1,0 +1,16 @@
+{
+	"typeAcquisition":{
+		"include": [
+			"jquery"
+		]
+	},
+	"compilerOptions": {
+		"target": "ES6"
+	},
+	"include": [
+		"app/**/*",
+		"e2e-tests/**/*",
+		"node_modules/**/*"
+	]
+
+}

@@ -1,0 +1,15 @@
+body{
+    font-size: 15px;
+}
+
+.image-container img{
+    width: 100%;
+}
+
+#nav-logo{
+    width: 150px;
+}
+
+.btn-default {
+    font-size: 14px;
+}

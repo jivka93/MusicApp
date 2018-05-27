@@ -1,0 +1,26 @@
+{
+    "extends": "jquery",
+    "rules": {
+        "no-undef": ["off"],
+        "quotes": ["error", "single"],
+        "array-bracket-spacing": ["off"],
+        "no-unused-vars": ["off"],
+        "linebreak-style": ["off"],
+        "object-curly-spacing": ["off"],
+        "block-scoped-var": 2,
+        "dot-notation": 2,
+        "eqeqeq": 2,
+        "semi": 2,
+        "no-else-return": 2,
+        "no-fallthrough": 2,
+        "no-redeclare": 2,
+        "wrap-iife": 2,
+        "yoda": 0,
+        "space-in-parens": 0,
+        "space-before-function-paren": 0	    
+    },
+    "globals": {
+        "$": true,
+        "Promise": true
+    }
+}
