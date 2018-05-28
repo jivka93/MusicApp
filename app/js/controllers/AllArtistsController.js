@@ -10,8 +10,8 @@ musicApp.controller('AllArtistsController',
 
         $scope.addFavouriteArtist = addFavouriteArtist;
 
-        var addFavouriteArtist = function(artistId) {
-
+        function addFavouriteArtist(artistId) {
+            console.log(artistId);
         };
     }
 );

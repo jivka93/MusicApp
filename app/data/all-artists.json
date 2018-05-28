@@ -1,4 +1,56 @@
 [
+    {
+            "id": 0,
+            "name": "Анелия",
+            "label": "Планета Пайнер",
+            "image": "https://webnews.bg/uploads/images/33/1833/261833/768x432.jpg?_=1478703491",
+            "albumsCount": 6,
+            "singlesCount": 39,
+            "albums": [
+                {
+                    "id": 1,
+                    "title": "Преслава",
+                    "image": "https://i49.vbox7.com/o/639/6398dbb5e60.jpg",
+                    "year": 2004,
+                    "songs": 16
+                },
+                {
+                    "id": 2,
+                    "title": "Дяволско желание",
+                    "image": "https://img.discogs.com/dTK63zJQ9tHH_mWCWioB9BLRrzw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6044135-1409624871-5654.jpeg.jpg",
+                    "year": 2005,
+                    "songs": 12
+                },
+                {
+                    "id": 3,
+                    "title": "Интрига",
+                    "image": "http://www.preslavadaily.net/wp-content/uploads/2017/08/200601.jpg",
+                    "year": 2007,
+                    "songs": 12
+                },
+                {
+                    "id": 4,
+                    "title": "Не съм ангел",
+                    "image": "http://www.polymusic.eu/images/thumbs/0009010.jpeg",
+                    "year": 2007,
+                    "songs": 12
+                },
+                {
+                    "id": 5,
+                    "title": "Пази се от приятелки",
+                    "image": "https://i49.vbox7.com/o/0df/0df5c69d210.jpg",
+                    "year": 2009,
+                    "songs": 14
+                },
+                {
+                    "id": 6,
+                    "title": "Как ти стои",
+                    "image": "http://store.picbg.net/pubpic/D3/7C/a63c4e4d3202d37c.jpg",
+                    "year": 2011,
+                    "songs": 13
+                }
+            ]
+        },
         {
             "id": 1,
             "name": "Преслава",
@@ -53,9 +105,9 @@
         },
         {
             "id": 2,
-            "name": "Анелия",
+            "name": "Андреа",
             "label": "Планета Пайнер",
-            "image": "https://webnews.bg/uploads/images/33/1833/261833/768x432.jpg?_=1478703491",
+            "image": "http://lifestylebg.com/sites/default/files/field/image/andrea-11.jpg",
             "albumsCount": 6,
             "singlesCount": 39,
             "albums": [
