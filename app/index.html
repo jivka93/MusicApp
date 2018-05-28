@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/darkly/bootstrap.min.css" integrity="sha384-ae362vOLHy2F1EfJtpMbNW0i9pNM1TP2l5O4VGYYiLJKsaejqVWibbP6BSf0UU5i" crossorigin="anonymous">
     <!-- my css -->
     <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/footer.css">
 </head>
 
 <body ng-app="musicApp" ng-controller="PageController">
@@ -50,16 +51,6 @@
                 </div>
               </nav>
     
-<ul>
-    <li>
-        <a href="#!/add-artist">Add Artist</a>
-    </li>
-    <li>
-        <a href="#">View2</a>
-    </li>
-</ul>
-
-
 <div ng-view >
 </div>
 
@@ -88,7 +79,7 @@
 </div>
 
 
-<footer >
+<footer id="appFooter">
     <small class="text-center">Author: {{author}}</small>
 </footer>
 
@@ -107,8 +98,12 @@
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-route.js"></script>
 <!-- My JS -->
 <script src="js/app.js"></script>
+<!-- Services -->
+<script src="js/services/artistData.js"></script>
+<!-- Controllers -->
 <script src="js/controllers/PageController.js"></script>
 <script src="js/controllers/ArtistDetailsController.js"></script>
+<script src="js/controllers/AlbumDetailsController.js"></script>
 
 </body>
 </html>
