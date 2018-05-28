@@ -1,31 +1,17 @@
 'use strict';
 
-// musicApp.factory('artistData', function($http, $log) {
-//     return {
-//         getArtist: function (id, successcb) {
-//             $http({ method: 'GET', url: '/data/artists.json' })
-//             .then(function successCallback(response) {
-//                 successCallback(response);
-//             }, function errorCallback(response) {
-//                 $log.error(response);
-//             });
-//         }
-//     };
-// });
-
 musicApp.factory('artistData', function($http, $log) {
-    var factory = {};
-
-    factory.getArtist = function (id, successcb) {
-        $http({ method: 'GET', url: '/data/artists.json' })
-        .then(function successCallback(response) {
-            successCallback(response);
-        }, function errorCallback(response) {
-            $log.error(response);
-        });
-
-    return factory;
-};
+    return {
+        getArtist: function (successcb) {
+            $http({ method: 'GET', url: '/data/artist.json' })
+            .then(function successCallback(response) {
+                console.log(response);
+                successcb(response);
+            }, function errorCallback(response) {
+                $log.error(response);
+            });
+        }
+    };
 });
 
 var obj = {
