@@ -4,11 +4,11 @@ musicApp.controller('ArtistDetailsController',
 
     function ArtistDetailsController($scope, artistData) {
 
-        // artistData.getArtist(1, function(data) {
-        //     $scope.artist = data;
-        // });
+        artistData.getArtist(function(data) {
+            $scope.artist = data;
+        });
 
-        $scope.artist = artistData.getArtist();
+        // $scope.artist = artistData.getArtist();
 
         $scope.showAlbums = false;
         $scope.showAlbumsText = 'Show';
