@@ -1,0 +1,23 @@
+<div class="container" ng-controller="ArtistDetailsController">
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col-md-6">
+                <h1>{{artist.name}}</h1>
+                    <p>
+                    <strong>Label: </strong>{{artist.label}}
+                    <br/>
+                    <strong>Albums: </strong>{{artist.albumsCount}}
+                    <button class="pull-right btn btn-success" ng-click="showAlbumsInfo()">{{showAlbumsText}}</button>
+                </p>
+                <div ng-show="showAlbums">
+                    <ul>
+                        <li ng-repeat="album in artist.albums">{{album.title}}</li>
+                    </ul>                   
+                </div>
+            </div>
+            <div class="col-md-6 image-container">
+                <img src="{{artist.image}}"/>
+            </div>
+        </div>
+    </div>
+</div>

@@ -8,8 +8,6 @@ musicApp.controller('ArtistDetailsController',
             $scope.artist = data;
         });
 
-        // $scope.artist = artistData.getArtist();
-
         $scope.showAlbums = false;
         $scope.showAlbumsText = 'Show';
         $scope.showAlbumsInfo = showAlbumsInfo;

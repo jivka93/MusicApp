@@ -24,11 +24,17 @@
                 <div class="collapse navbar-collapse" id="navbarColor03">
                   <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                      <a class="nav-link" href="#">Music Artists <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">All Artists <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        </li><li><a class="nav-link" href="#!/add-artist">Add Artist</a></li>
-                    
+                        <a class="nav-link" href="#">Most popular</span></a>
+                    </li>                 
+                    <li class="nav-item">
+                        <a class="nav-link" href="#!/add-artist">Add Artist</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#!/artist-details">Artist Details</a>
+                    </li>
                   </ul>
                   <!-- Search Bar -->
                   <form class="form-inline my-2 my-lg-0">
@@ -51,31 +57,7 @@
                 </div>
               </nav>
     
-<div ng-view >
-</div>
-
-<div class="container" ng-controller="ArtistDetailsController" ng-cloak>
-    <div class="jumbotron">
-        <div class="row">
-            <div class="col-md-6">
-                <h1>{{artist.name}}</h1>
-                <p>
-                    <strong>Label: </strong>{{artist.label}}
-                    <br/>
-                    <strong>Albums: </strong>{{artist.albumsCount}}
-                    <button class="pull-right btn btn-success" ng-click="showAlbumsInfo()">{{showAlbumsText}}</button>
-                </p>
-                <div ng-show="showAlbums">
-                    <ul>
-                        <li ng-repeat="album in artist.albums">{{album.title}}</li>
-                    </ul>                   
-                </div>
-            </div>
-            <div class="col-md-6 image-container">
-                <img src="{{artist.image}}"/>
-            </div>
-        </div>
-    </div>
+<div ng-view ng-cloak>
 </div>
 
 
@@ -100,10 +82,12 @@
 <script src="js/app.js"></script>
 <!-- Services -->
 <script src="js/services/artistData.js"></script>
+<script src="js/services/allArtistsData.js"></script>
 <!-- Controllers -->
 <script src="js/controllers/PageController.js"></script>
 <script src="js/controllers/ArtistDetailsController.js"></script>
 <script src="js/controllers/AlbumDetailsController.js"></script>
+<script src="js/controllers/AllArtistsController.js"></script>
 
 </body>
 </html>
