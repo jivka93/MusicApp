@@ -1,5 +1,5 @@
 body{
-    font-size: 15px;
+    font-size: 17px;
 }
 
 .image-container img{
@@ -10,6 +10,44 @@ body{
     width: 150px;
 }
 
-.btn-default {
-    font-size: 14px;
+.dropdown-menu {
+    padding: 15px; 
+    padding-bottom: 10px;
+    width: 220px;
 }
+
+.login-item {
+    margin-top: 15px;
+}
+
+
+
+.btn {
+    font-size: 15px;
+}
+
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched {
+    background-color: pink;    
+}
+
+input.ng-valid.ng-touched, textarea.ng-valid.ng-touched {
+    background-color: lightgreen;    
+}
+
+label {
+    font-size: 20px;
+}
+
+input[type="text"], input[type="url"], input::-webkit-input-placeholder{
+    font-size: 13px;
+}
+
+img {
+margin-top: 35px;
+}
+
+.alert {
+    margin-left: 14%;
+    margin-right:14%;
+}
+
