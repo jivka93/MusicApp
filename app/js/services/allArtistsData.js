@@ -4,9 +4,9 @@ musicApp.factory('allArtistsData', function($http, $log) {
     return {
         getAllArtists: function (successcb) {
             $http({ method: 'GET', url: '/data/all-artists.json' })
-            .then(function successCallback(response) {
+            .then(function (response) {
                 successcb(response.data);
-            }, function errorCallback(response) {
+            }, function (response) {
                 $log.error(response);
             });
         }
