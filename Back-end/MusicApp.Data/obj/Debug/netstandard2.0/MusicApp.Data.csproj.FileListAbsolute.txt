@@ -1,0 +1,8 @@
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\bin\Debug\netstandard2.0\MusicApp.Data.deps.json
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\bin\Debug\netstandard2.0\MusicApp.Data.dll
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\bin\Debug\netstandard2.0\MusicApp.Data.pdb
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\obj\Debug\netstandard2.0\MusicApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\obj\Debug\netstandard2.0\MusicApp.Data.AssemblyInfoInputs.cache
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\obj\Debug\netstandard2.0\MusicApp.Data.AssemblyInfo.cs
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\obj\Debug\netstandard2.0\MusicApp.Data.dll
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Data\obj\Debug\netstandard2.0\MusicApp.Data.pdb
