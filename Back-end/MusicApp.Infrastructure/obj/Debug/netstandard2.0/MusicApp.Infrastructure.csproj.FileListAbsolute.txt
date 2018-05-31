@@ -4,3 +4,17 @@ C:\Users\Jivka\Desktop\MusicApp\MusicApp.Infrastructure\obj\Debug\netstandard2.0
 C:\Users\Jivka\Desktop\MusicApp\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\Jivka\Desktop\MusicApp\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Jivka\Desktop\MusicApp\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.AssemblyInfo.cs
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.AssemblyInfoInputs.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.AssemblyInfo.cs
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\bin\Debug\netstandard2.0\MusicApp.Infrastructure.deps.json
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\bin\Debug\netstandard2.0\MusicApp.Infrastructure.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\bin\Debug\netstandard2.0\MusicApp.Infrastructure.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.csprojResolveAssemblyReference.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\bin\Debug\netstandard2.0\MusicApp.Data.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\bin\Debug\netstandard2.0\MusicApp.Services.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\bin\Debug\netstandard2.0\MusicApp.Services.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\bin\Debug\netstandard2.0\MusicApp.Data.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Infrastructure\obj\Debug\netstandard2.0\MusicApp.Infrastructure.csproj.CopyComplete

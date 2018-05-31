@@ -12,8 +12,7 @@ namespace MusicApp.Services
         private string connectionString;
         private SqlDataAdapter adapter;
 
-        // TODO move connectionString
-        public ArtistService(string connectionString = "Data Source=.\\SQLEXPRESS; Initial Catalog = MusicApp; Integrated Security = True;")
+        public ArtistService(string connectionString)
         {
             this.connectionString = connectionString;
         }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.Owin;
+using MusicApp.Infrastructure;
 using Owin;
 
 [assembly: OwinStartupAttribute(typeof(MusicApp.Startup))]
@@ -8,6 +9,7 @@ namespace MusicApp
     {
         public void Configuration(IAppBuilder app)
         {
+            var autofacConfig = new AutofacConfig();
             ConfigureAuth(app);
         }
     }
