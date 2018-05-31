@@ -1,0 +1,8 @@
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\bin\Debug\netstandard2.0\MusicApp.Services.deps.json
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\bin\Debug\netstandard2.0\MusicApp.Services.dll
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\bin\Debug\netstandard2.0\MusicApp.Data.dll
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\bin\Debug\netstandard2.0\MusicApp.Data.pdb
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\obj\Debug\netstandard2.0\MusicApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\obj\Debug\netstandard2.0\MusicApp.Services.AssemblyInfoInputs.cache
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\obj\Debug\netstandard2.0\MusicApp.Services.AssemblyInfo.cs
+C:\Users\Jivka\Desktop\MusicApp\MusicApp.Services\obj\Debug\netstandard2.0\MusicApp.Services.csproj.CopyComplete
