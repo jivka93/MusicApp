@@ -65,3 +65,5 @@ D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Tests\obj\Debug\MusicApp.Tests.
 D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Tests\obj\Debug\MusicApp.Tests.pdb
 D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Tests\bin\Debug\MusicApp.Infrastructure.dll
 D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Tests\bin\Debug\MusicApp.Infrastructure.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Tests\bin\Debug\Autofac.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp.Tests\bin\Debug\Autofac.xml

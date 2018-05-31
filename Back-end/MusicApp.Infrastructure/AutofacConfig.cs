@@ -3,16 +3,22 @@ using MusicApp.Infrastructure.AutofacModules;
 
 namespace MusicApp.Infrastructure
 {
-    public class AutofacConfig
-    {
-        public AutofacConfig()
-        {
-            var builder = new ContainerBuilder();
+    //public class AutofacConfig
+    //{
+    //    private IContainer container; 
 
-            builder.RegisterModule(new ServicesModule());
-            builder.RegisterModule(new WebModule());
+    //    public AutofacConfig()
+    //    {
+    //        var builder = new ContainerBuilder();
 
-            var container = builder.Build();
-        }
-    }
+    //        builder.RegisterModule(new ServicesModule());
+    //        builder.RegisterModule(new WebModule());
+
+    //        this.container = builder.Build();
+    //    }
+
+    //    // TODO
+    //    public IContainer Container { get; }
+
+    //}
 }

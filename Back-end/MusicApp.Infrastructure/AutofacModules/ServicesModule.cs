@@ -10,7 +10,14 @@ namespace MusicApp.Infrastructure.AutofacModules
         {
             var connectionString = "Data Source=.\\SQLEXPRESS; Initial Catalog = MusicApp; Integrated Security = True;";
 
-            builder.RegisterType<ArtistService>().As<IArtistService>().WithParameter("connectionString", connectionString);
+            builder
+                .RegisterType<ArtistService>()
+                .As<IArtistService>()
+                .WithParameter("connectionString", connectionString)
+                .SingleInstance()
+                .PropertiesAutowired();
+
+
         }
     }
 }

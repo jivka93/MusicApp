@@ -2,11 +2,11 @@
 using MusicApp.Services.Contracts;
 using System;
 using System.Web.Http;
-
+using System.Web.Mvc;
 
 namespace MusicApp.Controllers
 {
-    public class ArtistController : ApiController
+    public class ArtistController : Controller
     {
         private IArtistService artistService;
 

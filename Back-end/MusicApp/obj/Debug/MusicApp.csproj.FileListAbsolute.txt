@@ -467,3 +467,5 @@ D:\MusicApp\MusicApp\music-app\Back-end\MusicApp\bin\Autofac.Configuration.xml
 D:\MusicApp\MusicApp\music-app\Back-end\MusicApp\bin\Microsoft.Extensions.Configuration.xml
 D:\MusicApp\MusicApp\music-app\Back-end\MusicApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
 D:\MusicApp\MusicApp\music-app\Back-end\MusicApp\bin\Microsoft.Extensions.Primitives.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp\bin\Autofac.Integration.WebApi.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApp\bin\Autofac.Integration.WebApi.xml

@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json.Serialization;
+﻿using MusicApp.App_Start;
+using Newtonsoft.Json.Serialization;
 using System.Net.Http.Headers;
 using System.Web.Http;
 
@@ -21,8 +22,10 @@ namespace MusicApp
                 defaults: new { id = RouteParameter.Optional }
             );
 
+            AutofacConfig.Register(config);
+
             config.Formatters.Remove(config.Formatters.XmlFormatter);
-            config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new MediaTypeHeaderValue("applucation/json"));
+            config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new MediaTypeHeaderValue("application/json"));
 
             //config.Formatters.JsonFormatter.SerializerSettings.Formatting = Newtonsoft.Json.Formatting.Indented;
             //config.Formatters.JsonFormatter.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
