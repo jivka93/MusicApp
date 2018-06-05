@@ -30,7 +30,15 @@ namespace MusicApplication.App_Start
             builder
                 .Register<IArtistService>(x => new ArtistService(connectionString))
                 .SingleInstance();
- 
+
+            builder
+                .Register<IAlbumService>(x => new AlbumService(connectionString))
+                .SingleInstance();
+
+            builder
+                .Register<ISingleService>(x => new SingleService(connectionString))
+                .SingleInstance();
+
             Container = builder.Build();
 
             return Container;

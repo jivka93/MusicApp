@@ -1,8 +1,11 @@
 'use strict';
 
 musicApp.controller('AlbumDetailsController',
-    function AlbumDetailsController($scope, $routeParams, albumData) {
-        var album = albumData.getAlbum($routeParams.id);
-        $scope.album = album;
+
+    function AlbumDetailsController($scope, albumData) {
+
+        albumData.getAlbum(function(data) {
+            $scope.artist = data;
+        });
     }
 );

@@ -18,11 +18,21 @@ namespace MusicApplication.Data
             public DateTime? Year { get; set; }
 
             public List<Single> Singles { get; set; }
+ 
+            
+            public int ArtistId { get; set; }
+            public string ArtistName { get; set; }
 
 
             public Album()
             {
                 this.Singles = new List<Single>();
+            }
+
+            public Album(IDataReader reader, Dictionary<int, Artist> dict)
+                : this()
+            {
+                CastFromReader(reader, dict);
             }
 
             public void CastFromReader(IDataReader reader, Dictionary<int, Artist> dict)
@@ -36,11 +46,12 @@ namespace MusicApplication.Data
                         this.AlbumImageUrl = Convert.ToString(reader["AlbumImageUrl"]);
                         this.Year = Convert.ToDateTime(reader["Year"]);
 
-                        var artistId = Convert.ToInt32(reader["ArtistId"]);
+                        this.ArtistId = Convert.ToInt32(reader["ArtistId"]);
+                        this.ArtistName = Convert.ToString(reader["ArtistName"]);
 
-                        if (!dict[artistId].Albums.Any(x => x.AlbumId == this.AlbumId))
+                        if (!dict[this.ArtistId].Albums.Any(x => x.AlbumId == this.AlbumId))
                         {
-                            dict[artistId].Albums.Add(this);
+                            dict[this.ArtistId].Albums.Add(this);
                         }
 
                         var single = new Single();
@@ -53,6 +64,8 @@ namespace MusicApplication.Data
                         this.AlbumImageUrl = null;
                         this.Year = null;
                         this.Singles = null;
+
+                        this.ArtistName = null;
                     }
                 }
 

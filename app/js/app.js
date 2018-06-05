@@ -21,6 +21,10 @@ var musicApp = angular
             templateUrl: 'partials/album-details.html',
             controller: 'AlbumDetailsController'
         })
+        .when('/single-details/:id', {
+            templateUrl: 'partials/single-details.html',
+            controller: 'SingleDetailsController'
+        })
         .when('/', {
             templateUrl: 'partials/all-artists.html',
             controller: 'AllArtistsController'
