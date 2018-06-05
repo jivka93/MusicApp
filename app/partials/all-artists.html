@@ -3,7 +3,9 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="text-center">
-                        <h1>{{artist.ArtistName}}</h1>
+                        <h1>
+                            <a ng-href="#!/artist-details/{{artist.ArtistId}}">{{artist.ArtistName}}</a>
+                        </h1>
                     </div>
                         <p>
                         <strong>Label: </strong>{{artist.Label}}
@@ -12,7 +14,9 @@
                     </p>
                     <div>
                         <ul>
-                            <li ng-repeat="album in artist.Albums">{{album.AlbumName}}</li>
+                            <li ng-repeat="album in artist.Albums">
+                                <a ng-href="#!/album-details/{{album.AlbumId}}">{{album.AlbumName}}</a>
+                            </li>
                         </ul>                   
                     </div>
                 </div>

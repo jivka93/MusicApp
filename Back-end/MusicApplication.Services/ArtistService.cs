@@ -85,7 +85,11 @@ namespace MusicApplication.Services
                         artists.Add(item.Value);
                     }
 
-                    return artists[0];
+                    if (artists.Count > 0)
+                    {
+                        return artists[0];
+                    }
+                    return null;
                 }
             }
         }
