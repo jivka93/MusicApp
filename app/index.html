@@ -18,11 +18,9 @@
 <body ng-app="musicApp" ng-controller="PageController">
     <!-- Navbar -->
     <nav id="nav-bar" class="navbar navbar-expand-lg navbar-light bg-light" style="height:55px;">
-        <!-- <img id="nav-logo" src="images/logo.png"/> -->
-        <!-- <a class="navbar-brand" href="#">ChalgaParadise</a> -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
         <div class="collapse navbar-collapse" id="navbarColor03">
             <ul class="navbar-nav mr-auto">
@@ -85,30 +83,10 @@
                         <h1 class="modal-title"><b>Register</b></h1>
                     </div>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
+                        <span aria-hidden="true">&times;</span>
+                    </button>
                 </div>
-                <!-- Modal Content -->
                 <div class="modal-body">
-                    <!-- <form>
-                            <fieldset>
-                                <div class="form-group">
-                                    <label for="username">Username</label>
-                                    <input type="text" class="form-control" id="username" placeholder="Enter username" ng-model="user.username" ng-required="true">
-                                </div>
-                                <div class="form-group">
-                                    <label for="password">Password</label>
-                                    <input type="password" class="form-control" id="password" name="password" placeholder="Enter password" ng-model="user.password" ng-required="true">
-                                </div>
-                                <div class="form-group">
-                                    <label for="repeatPassword">Repeat password</label>
-                                    <input type="password" class="form-control" id="repeatPassword" name="confirm_password" placeholder="Repeat password" ng-model="user.password_verify" ng-required="true" data-password-verify="user.password">
-                                </div>
-                                <div ng-show="form.confirm_password.$error.passwordVerify">
-                                    <span style="color: red;">Fields are not equal!</span>
-                                </div>
-                            </fieldset>
-                        </form> -->
                     <div>
                         <form name='form'>
                             <fieldset>
@@ -126,21 +104,20 @@
                                 </div>
                                 <div ng-show="form.confirm_password.$error.passwordVerify">Passwords do not match!</div>
                             </fieldset>
+                            <div class="text-center">
+                                <button class="btn btn-success my-2 my-sm-0" type="submit" ng-click="submit()">Submit</button>
+                                <!-- <button class="btn btn-secondary" type="button" data-dismiss="modal">Close</button> -->
+                            </div>
                         </form>
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <div class="text-center">
-                        <button class="btn btn-success my-2 my-sm-0" type="submit" ng-click="submit()">Submit</button>
-                        <button class="btn btn-secondary" type="button" data-dismiss="modal">Close</button>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
+
     <!-- Login Modal -->
-    <div id="loginModal" class="modal">
+    <div id="loginModal" class="modal" ng-controller="LoginController">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -151,9 +128,11 @@
                 </div>
                 <div class="modal-body">
                     <form class="form-horizontal" method="post" accept-charset="UTF-8">
-                        <input id="username2" class="form-control login login-item" type="text" name="username" placeholder="Username.." ng-model="username">
-                        <input id="password2" class="form-control login login-item" type="password" name="password" placeholder="Password.." ng-model="password">
-                        <input class="btn btn-success btn-lg login-item" type="submit" name="submit" value="Login" ng-click="login()">
+                        <input id="username2" class="form-control login login-item" type="text" name="username" placeholder="Username" ng-model="username">
+                        <input id="password2" class="form-control login login-item" type="password" name="password" placeholder="Password" ng-model="password">
+                        <div class="text-center">
+                            <input class="btn btn-success btn-lg login-item" type="submit" name="submit" value="Login" ng-click="login()">
+                        </div>
                     </form>
                 </div>
             </div>
