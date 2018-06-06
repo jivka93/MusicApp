@@ -68,6 +68,30 @@
                         </a>
                     </li>
                 </ul>
+
+                <!-- Login Modal -->
+                <div id="loginModal" class="modal">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content myModal">
+                            <div class="modal-header">
+                                <h1 class="modal-title"><b>Login</b></h1>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                            </div>
+                            <div class="modal-body">
+                                <form class="form-horizontal" method="post" accept-charset="UTF-8">
+                                    <input id="username" class="form-control login login-item" type="text" name="username" placeholder="Username" ng-model="username">
+                                    <input id="password" class="form-control login login-item" type="password" name="password" placeholder="Password" ng-model="password">
+                                    <div class="text-center">
+                                        <input class="btn btn-success btn-lg login-item" type="submit" name="submit" value="Login" ng-click="login()">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </nav>
@@ -90,7 +114,7 @@
                 </div>
                 <div class="modal-body">
                     <div>
-                        <form name='form'>
+                        <form name='form' ng-submit="registerUser()">
                             <fieldset>
                                 <div class="form-group">
                                     <label for="username-reg">Username <span ng-show="form.username.$error.required"><small>(required)</small></span></label>
@@ -98,7 +122,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="password-reg">Password <span ng-show="form.password.$error.required"><small>(required)</small></span></label>
-                                    <input id="password-reg" type="password" class="form-control" ng-model="user.password" name="password" placeholder="Password" required>                                   
+                                    <input id="password-reg" type="password" class="form-control" name="password" placeholder="Password" ng-model="user.password" required>
                                 </div>
                                 <div class="form-group">
                                     <label for="confirm-password-reg">Confirm password <span ng-show="form.confirm_password.$error.required"><small>(required)<small></span></label>
@@ -109,32 +133,13 @@
                             <div class="text-center">
                                 <button class="btn btn-success my-2 my-sm-0" type="submit" ng-click="submit()">Submit</button>
                             </div>
+                            <!-- Alert -->
+                            <div ng-show="showPasswordError" class="alert alert-dismissible alert-danger">
+                                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                                <p>Passwords don't match</p>
+                            </div>
                         </form>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <!-- Login Modal -->
-    <div id="loginModal" class="modal" ng-controller="LoginController">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content myModal">
-                <div class="modal-header">
-                    <h1 class="modal-title"><b>Login</b></h1>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
-                <div class="modal-body">
-                    <form class="form-horizontal" method="post" accept-charset="UTF-8">
-                        <input id="username2" class="form-control login login-item" type="text" name="username" placeholder="Username" ng-model="username">
-                        <input id="password2" class="form-control login login-item" type="password" name="password" placeholder="Password" ng-model="password">
-                        <div class="text-center">
-                            <input class="btn btn-success btn-lg login-item" type="submit" name="submit" value="Login" ng-click="login()">
-                        </div>
-                    </form>
                 </div>
             </div>
         </div>
