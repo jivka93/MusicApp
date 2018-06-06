@@ -1,13 +1,10 @@
 body{
     font-size: 17px;
+    padding-right: 0 !important;
 }
 
 .image-container img{
     width: 100%;
-}
-
-#nav-logo{
-    width: 150px;
 }
 
 .dropdown-menu {
@@ -20,7 +17,9 @@ body{
     margin-top: 15px;
 }
 
-
+.myModal {
+    width: 350px;
+}
 
 .btn {
     font-size: 15px;
