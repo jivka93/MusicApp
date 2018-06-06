@@ -1,0 +1,540 @@
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\MusicApplication.dll.config
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\MusicApplication.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\MusicApplication.pdb
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\csc.exe
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\csc.exe.config
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\csc.rsp
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\csi.exe
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\csi.exe.config
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\csi.rsp
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Console.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\vbc.exe
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\vbc.exe.config
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\vbc.rsp
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Autofac.Configuration.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Autofac.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Bytes2you.Validation.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Newtonsoft.Json.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Web.Http.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Autofac.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Autofac.Configuration.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Newtonsoft.Json.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Web.Http.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\obj\Debug\MusicApplication.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\obj\Debug\MusicApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\obj\Debug\MusicApplication.csproj.CopyComplete
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\obj\Debug\MusicApplication.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\obj\Debug\MusicApplication.pdb
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\netstandard.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.AppContext.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Collections.Concurrent.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Collections.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Collections.NonGeneric.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Collections.Specialized.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.ComponentModel.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.ComponentModel.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Console.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Data.Common.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.Contracts.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.Debug.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.Process.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.Tools.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Diagnostics.Tracing.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Drawing.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Dynamic.Runtime.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Globalization.Calendars.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Globalization.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Globalization.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.Compression.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.FileSystem.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.IsolatedStorage.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.Pipes.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Linq.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Linq.Expressions.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Linq.Parallel.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Linq.Queryable.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Http.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.NameResolution.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.NetworkInformation.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Ping.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Requests.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Security.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.Sockets.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.WebSockets.Client.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Net.WebSockets.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.ObjectModel.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Reflection.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Reflection.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Reflection.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Resources.Reader.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Resources.ResourceManager.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Resources.Writer.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.Handles.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.InteropServices.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.Numerics.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.Claims.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.Principal.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Security.SecureString.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Text.Encoding.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Text.RegularExpressions.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Threading.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Threading.Overlapped.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Threading.Tasks.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Threading.Thread.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Threading.ThreadPool.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Threading.Timer.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.ValueTuple.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Xml.ReaderWriter.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Xml.XDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Xml.XmlDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Xml.XmlSerializer.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Xml.XPath.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Autofac.Integration.WebApi.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\MusicApplication.Data.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\MusicApplication.Services.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\MusicApplication.Data.pdb
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\MusicApplication.Services.pdb
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\Autofac.Integration.WebApi.xml
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication\bin\System.Data.SqlClient.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\obj\Debug\MusicApplication.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\obj\Debug\MusicApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\obj\Debug\MusicApplication.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\obj\Debug\MusicApplication.pdb
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\MusicApplication.dll.config
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\MusicApplication.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\MusicApplication.pdb
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\csc.exe
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\csc.exe.config
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\csc.rsp
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\csi.exe
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\csi.exe.config
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\csi.rsp
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Console.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\vbc.exe
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\vbc.exe.config
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\vbc.rsp
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\netstandard.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.AppContext.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Collections.Concurrent.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Collections.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Collections.NonGeneric.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Collections.Specialized.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.ComponentModel.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.ComponentModel.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Console.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Data.Common.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.Contracts.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.Debug.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.Process.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.Tools.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Diagnostics.Tracing.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Drawing.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Dynamic.Runtime.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Globalization.Calendars.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Globalization.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Globalization.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.Compression.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.FileSystem.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.IsolatedStorage.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.Pipes.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Linq.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Linq.Expressions.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Linq.Parallel.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Linq.Queryable.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Http.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.NameResolution.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.NetworkInformation.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Ping.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Requests.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Security.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Sockets.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.WebSockets.Client.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.WebSockets.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.ObjectModel.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Reflection.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Reflection.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Reflection.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Resources.Reader.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Resources.ResourceManager.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Resources.Writer.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.Handles.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.InteropServices.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.Numerics.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.Claims.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.Principal.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Security.SecureString.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Text.Encoding.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Text.RegularExpressions.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Threading.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Threading.Overlapped.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Threading.Tasks.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Threading.Thread.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Threading.ThreadPool.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Threading.Timer.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.ValueTuple.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Xml.ReaderWriter.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Xml.XDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Xml.XmlDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Xml.XmlSerializer.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Xml.XPath.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Autofac.Configuration.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Autofac.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Autofac.Integration.WebApi.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Bytes2you.Validation.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\MusicApplication.Data.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\MusicApplication.Services.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Newtonsoft.Json.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Data.SqlClient.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Web.Http.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\MusicApplication.Data.pdb
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\MusicApplication.Services.pdb
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Autofac.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Autofac.Configuration.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Autofac.Integration.WebApi.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\Newtonsoft.Json.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Web.Http.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication\obj\Debug\MusicApplication.csproj.CopyComplete
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\MusicApplication.dll.config
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\MusicApplication.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\MusicApplication.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\csc.exe
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\csc.exe.config
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\csc.rsp
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\csi.exe
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\csi.exe.config
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\csi.rsp
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.AppContext.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Console.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.IO.Compression.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.IO.Pipes.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Security.Claims.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Threading.Thread.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.ValueTuple.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Xml.XPath.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\vbc.exe
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\vbc.exe.config
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\vbc.rsp
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\VBCSCompiler.exe
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.Win32.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\netstandard.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.AppContext.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Collections.Concurrent.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Collections.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Collections.NonGeneric.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Collections.Specialized.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.ComponentModel.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.ComponentModel.EventBasedAsync.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.ComponentModel.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.ComponentModel.TypeConverter.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Console.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Data.Common.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.Contracts.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.Debug.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.FileVersionInfo.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.Process.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.StackTrace.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.Tools.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.TraceSource.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Diagnostics.Tracing.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Drawing.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Dynamic.Runtime.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Globalization.Calendars.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Globalization.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Globalization.Extensions.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.Compression.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.Compression.ZipFile.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.FileSystem.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.FileSystem.DriveInfo.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.FileSystem.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.FileSystem.Watcher.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.IsolatedStorage.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.MemoryMappedFiles.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.Pipes.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.IO.UnmanagedMemoryStream.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Linq.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Linq.Expressions.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Linq.Parallel.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Linq.Queryable.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Http.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.NameResolution.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.NetworkInformation.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Ping.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Requests.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Security.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Sockets.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.WebHeaderCollection.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.WebSockets.Client.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.WebSockets.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.ObjectModel.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Reflection.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Reflection.Extensions.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Reflection.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Resources.Reader.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Resources.ResourceManager.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Resources.Writer.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.Extensions.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.Handles.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.InteropServices.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.Numerics.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.Serialization.Formatters.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.Serialization.Json.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.Serialization.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Runtime.Serialization.Xml.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.Claims.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.Cryptography.Algorithms.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.Cryptography.Csp.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.Cryptography.Encoding.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.Cryptography.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.Cryptography.X509Certificates.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.Principal.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Security.SecureString.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Text.Encoding.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Text.Encoding.Extensions.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Text.RegularExpressions.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Threading.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Threading.Overlapped.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Threading.Tasks.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Threading.Tasks.Parallel.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Threading.Thread.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Threading.ThreadPool.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Threading.Timer.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.ValueTuple.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Xml.ReaderWriter.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Xml.XDocument.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Xml.XmlDocument.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Xml.XmlSerializer.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Xml.XPath.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Xml.XPath.XDocument.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Autofac.Configuration.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Autofac.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Autofac.Integration.WebApi.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Bytes2you.Validation.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.Extensions.Configuration.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.Extensions.Primitives.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\MusicApplication.Data.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\MusicApplication.Services.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Newtonsoft.Json.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Data.SqlClient.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Http.Formatting.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Web.Http.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Web.Http.WebHost.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\MusicApplication.Data.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\MusicApplication.Services.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Autofac.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Autofac.Configuration.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Autofac.Integration.WebApi.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.Extensions.Configuration.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Microsoft.Extensions.Primitives.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\Newtonsoft.Json.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Net.Http.Formatting.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Web.Http.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\bin\System.Web.Http.WebHost.xml
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\obj\Debug\MusicApplication.csprojResolveAssemblyReference.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\obj\Debug\MusicApplication.csproj.CoreCompileInputs.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\obj\Debug\MusicApplication.csproj.CopyComplete
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\obj\Debug\MusicApplication.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication\obj\Debug\MusicApplication.pdb

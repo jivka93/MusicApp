@@ -3,26 +3,30 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="text-center">
-                        <h1>{{artist.name}}</h1>
+                        <h1>
+                            <a ng-href="#!/artist-details/{{artist.ArtistId}}">{{artist.ArtistName}}</a>
+                        </h1>
                     </div>
                         <p>
-                        <strong>Label: </strong>{{artist.label}}
+                        <strong>Label: </strong>{{artist.Label}}
                         <br/>
-                        <strong>Albums: </strong>{{artist.albumsCount}}
+
                     </p>
                     <div>
                         <ul>
-                            <li ng-repeat="album in artist.albums">{{album.title}}</li>
+                            <li ng-repeat="album in artist.Albums">
+                                <a ng-href="#!/album-details/{{album.AlbumId}}">{{album.AlbumName}}</a>
+                            </li>
                         </ul>                   
                     </div>
                 </div>
                 <div class="col-md-7 image-container">
-                    <img src="{{artist.image}}"/>
+                    <img src="{{artist.ArtistImageUrl}}"/>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-5 text-center">
-                    <button class="btn btn-success btn-lg" ng-click="addFavouriteArtist(artist.id)"><span class="glyphicon glyphicon-heart"></span></button>
+                    <button class="btn btn-success btn-lg" ng-click="addFavouriteArtist(artist.ArtistId)"><span class="glyphicon glyphicon-heart"></span></button>
                 </div>
             </div>
         </div>

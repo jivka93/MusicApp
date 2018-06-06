@@ -1,0 +1,26 @@
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.deps.json
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.pdb
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.AssemblyInfoInputs.cache
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.AssemblyInfo.cs
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.dll
+C:\Users\Jivka\Desktop\MusicApplication\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.pdb
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.deps.json
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.pdb
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.AssemblyInfoInputs.cache
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.AssemblyInfo.cs
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.dll
+C:\Users\Jivka\Desktop\MusicApplication - Copy\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.deps.json
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\bin\Debug\netstandard2.0\MusicApplication.Data.pdb
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.csprojResolveAssemblyReference.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.csproj.CoreCompileInputs.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.AssemblyInfoInputs.cache
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.AssemblyInfo.cs
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.dll
+D:\MusicApp\MusicApp\music-app\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.pdb

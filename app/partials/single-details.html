@@ -1,0 +1,15 @@
+<div class="container" ng-controller="SingleDetailsController" ng-cloak>
+        <div class="jumbotron">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h1>{{single.ArtistName}}</h1>
+                    <h2>{{single.SingleName}}</h2>
+
+                    <div class="text-center">
+                        <iframe width="640" height="360" ng-src="{{trustSrc(single.SingleUrl) | trused}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>

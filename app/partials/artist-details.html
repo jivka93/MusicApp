@@ -2,21 +2,22 @@
     <div class="jumbotron">
         <div class="row">
             <div class="col-md-6">
-                <h1>{{artist.name}}</h1>
+                <h1>{{artist.ArtistName}}</h1>
                     <p>
-                    <strong>Label: </strong>{{artist.label}}
+                    <strong>Label: </strong>{{artist.Label}}
                     <br/>
-                    <strong>Albums: </strong>{{artist.albumsCount}}
                     <button class="pull-right btn btn-success" ng-click="showAlbumsInfo()">{{showAlbumsText}}</button>
                 </p>
                 <div ng-show="showAlbums">
                     <ul>
-                        <li ng-repeat="album in artist.albums">{{album.title}}</li>
+                        <li ng-repeat="album in artist.Albums">
+                            <a href="#!/album-details/{{album.AlbumId}}">{{album.AlbumName}}</a>
+                        </li>
                     </ul>                   
                 </div>
             </div>
             <div class="col-md-6 image-container">
-                <img src="{{artist.image}}"/>
+                <img src="{{artist.ArtistImageUrl}}"/>
             </div>
         </div>
     </div>
