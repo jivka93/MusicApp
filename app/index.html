@@ -1,28 +1,30 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
-    <title>ChalgaParadise</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular.min.js"></script>
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <!-- Theme -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/darkly/bootstrap.min.css" integrity="sha384-ae362vOLHy2F1EfJtpMbNW0i9pNM1TP2l5O4VGYYiLJKsaejqVWibbP6BSf0UU5i" crossorigin="anonymous">
-    <!-- my css -->
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/footer.css">
-</head>
+    <head>
+        <title>ChalgaParadise</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular.min.js"></script>
+        <!-- Bootstrap -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!-- Theme -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.1/darkly/bootstrap.min.css" integrity="sha384-ae362vOLHy2F1EfJtpMbNW0i9pNM1TP2l5O4VGYYiLJKsaejqVWibbP6BSf0UU5i" crossorigin="anonymous">
+        <!-- my css -->
+        <link rel="stylesheet" href="css/app.css">
+        <link rel="stylesheet" href="css/footer.css">
+    </head>
 
-<body ng-app="musicApp" ng-controller="PageController">
+    <body ng-app="musicApp" ng-controller="PageController">
         <!-- Navbar -->
         <nav id="nav-bar" class="navbar navbar-expand-lg navbar-light bg-light" style="height:55px;">
-                <!-- <img id="nav-logo" src="images/logo.png"/> -->
-                <!-- <a class="navbar-brand" href="#">ChalgaParadise</a> -->
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-              
-                <div class="collapse navbar-collapse" id="navbarColor03">
-                  <ul class="navbar-nav mr-auto">
+            <!-- <img id="nav-logo" src="images/logo.png"/> -->
+            <!-- <a class="navbar-brand" href="#">ChalgaParadise</a> -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+                
+            <div class="collapse navbar-collapse" id="navbarColor03">
+                <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
                         <a class="nav-link" href="#">All Artists</a>
                     </li>
@@ -35,71 +37,145 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#!/artist-details">Artist Details</a>
                     </li>
-                  </ul>
-                  <!-- Search Bar -->
-                  <form class="form-inline my-2 my-lg-0">
+                </ul>            
+                <!-- Search Bar -->
+                <form class="form-inline my-2 my-lg-0">
                     <input class="form-control mr-sm-2" type="text" placeholder="Search">
                     <button class="btn btn-success my-2 my-sm-0" type="submit">Search</button>
-                  </form>
-                  <!-- Login -->
-                  <div ng-controller="LoginController">
+                </form>
+                <!-- Regsiter/Login -->
+                <div ng-controller="LoginController">
                     <ul class="nav navbar-nav navbar-right">
-                        <li ng-show="isLogged" class="nav-item"><a href=""><span class="glyphicon glyphicon-user"></span> {{username}}</a></li>
-                        <li ng-show="isLogged" ng-click="logout()" class="nav-item"><a href=""><span class="glyphicon glyphicon-log-out"></span> Logout</a>
-                        <li ng-hide="isLogged" class="nav-item"><a href=""><span class="glyphicon glyphicon-user"></span> Register</a></li>
-                        <li ng-hide="isLogged" class="nav-item dropdown"><a class="dropdown-toggle" href="" data-toggle="dropdown"><span class="glyphicon glyphicon-log-in"></span> Login</a>
-                          <div class="dropdown-menu dropdown-menu-right">
-                            <form class="form-horizontal" method="post" accept-charset="UTF-8">
-                                <input id="username" class="form-control login login-item" type="text" name="username" placeholder="Username.." ng-model="username">
-                                <input id="password" class="form-control login login-item" type="password" name="password" placeholder="Password.."ng-model="password">
-                                <input class="btn btn-success btn-lg login-item" type="submit" name="submit" value="Login" ng-click="login()">
-                            </form>
-                          </div>
+                        <li ng-show="isLogged" class="nav-item">
+                            <a href="">
+                                <span class="glyphicon glyphicon-user"></span> {{username}}
+                            </a>
                         </li>
-                      </ul>
-                  </div>
-                </div>
-              </nav>
-    
-    <div ng-view>
-    </div>
-
-
-    <footer id="appFooter">
-        <div class="text-center">
-            <small>Author: {{author}}</small>
+                        <li ng-show="isLogged" ng-click="logout()" class="nav-item">
+                            <a href="">
+                                <span class="glyphicon glyphicon-log-out"></span> Logout
+                            </a>
+                        </li>
+                        <li ng-hide="isLogged" class="nav-item">
+                            <a data-toggle="modal" data-target="#myModal" href="#myModal">
+                                <span class="glyphicon glyphicon-user"></span> Register
+                            </a>
+                        </li>
+                        <li ng-hide="isLogged" class="nav-item dropdown"><a class="dropdown-toggle" href="" data-toggle="dropdown"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+                            <div class="dropdown-menu dropdown-menu-right">
+                                <form class="form-horizontal" method="post" accept-charset="UTF-8">
+                                    <input id="username2" class="form-control login login-item" type="text" name="username" placeholder="Username.." ng-model="username">
+                                    <input id="password2" class="form-control login login-item" type="password" name="password" placeholder="Password.."ng-model="password">
+                                    <input class="btn btn-success btn-lg login-item" type="submit" name="submit" value="Login" ng-click="login()">
+                                </form>
+                            </div>
+                            </li>
+                        </ul>
+                    </div>
+                    </div>
+                </nav>
+        
+        <div ng-view>
         </div>
-    </footer>
 
-<!-- JQuery -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<!-- Bootstrap -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<!-- Angular -->
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-animate.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-cookies.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-resource.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-route.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-sanitize.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-touch.min.js"></script>
-<!-- Angular Route -->
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-route.js"></script>
-<!-- My JS -->
-<script src="js/app.js"></script>
-<!-- Filters -->
-<script src="js/filters/trustedFilter.js"></script>
-<!-- Services -->
-<script src="js/services/artistData.js"></script>
-<script src="js/services/allArtistsData.js"></script>
-<script src="js/services/albumData.js"></script>
-<script src="js/services/singleData.js"></script>
-<!-- Controllers -->
-<script src="js/controllers/PageController.js"></script>
-<script src="js/controllers/LoginController.js"></script>
-<script src="js/controllers/ArtistDetailsController.js"></script>
-<script src="js/controllers/AddArtistController.js"></script>
-<script src="js/controllers/AllArtistsController.js"></script>
-<script src="js/controllers/AlbumDetailsController.js"></script>
-<script src="js/controllers/SingleDetailsController.js"></script>
-</body>
+
+        <!-- Modal -->
+        <div id="myModal" class="modal" ng-controller="RegisterUserController">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div class="text-center">
+                            <h1 class="modal-title"><b>Register</b></h1>
+                        </div>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <!-- Modal Content -->
+                    <div class="modal-body">
+                        <!-- <form>
+                            <fieldset>
+                                <div class="form-group">
+                                    <label for="username">Username</label>
+                                    <input type="text" class="form-control" id="username" placeholder="Enter username" ng-model="user.username" ng-required="true">
+                                </div>
+                                <div class="form-group">
+                                    <label for="password">Password</label>
+                                    <input type="password" class="form-control" id="password" name="password" placeholder="Enter password" ng-model="user.password" ng-required="true">
+                                </div>
+                                <div class="form-group">
+                                    <label for="repeatPassword">Repeat password</label>
+                                    <input type="password" class="form-control" id="repeatPassword" name="confirm_password" placeholder="Repeat password" ng-model="user.password_verify" ng-required="true" data-password-verify="user.password">
+                                </div>
+                                <div ng-show="form.confirm_password.$error.passwordVerify">
+                                    <span style="color: red;">Fields are not equal!</span>
+                                </div>
+                            </fieldset>
+                        </form> -->
+                        <div>
+                                <form name='form'>
+                                    <input data-ng-model='user.password' type="password" name='password' placeholder='password' required>
+                                <div ng-show="form.password.$error.required">
+                                        Field required</div>
+                                <input ng-model='user.password_verify' type="password" name='confirm_password' placeholder='confirm password' required data-password-verify="user.password">
+                                <div ng-show="form.confirm_password.$error.required">
+                                        Field required!</div>
+                                <div ng-show="form.confirm_password.$error.passwordVerify">
+                                        Fields are not equal!</div>
+                                </form>
+                            </div>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="text-center">
+                            <button class="btn btn-success my-2 my-sm-0" type="submit" ng-click="submit()">Submit</button>
+                            <button class="btn btn-secondary" type="button" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <footer id="appFooter">
+            <div class="text-center">
+                <small>Author: {{author}}</small>
+            </div>
+        </footer>
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <!-- JQuery -->
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <!-- Bootstrap -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <!-- Angular -->
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-animate.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-cookies.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-resource.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-route.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-sanitize.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-touch.min.js"></script>
+        <!-- Angular Route -->
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular-route.js"></script>
+        <!-- My JS -->
+        <script src="js/app.js"></script>
+        <!-- Filters -->
+        <script src="js/filters/trustedFilter.js"></script>
+        <!-- Directives -->
+        <!-- <script src="js/directives/registerValidation.js"></script> -->
+        <!-- Services -->
+        <script src="js/services/artistData.js"></script>
+        <script src="js/services/allArtistsData.js"></script>
+        <script src="js/services/albumData.js"></script>
+        <script src="js/services/singleData.js"></script>
+        <!-- Controllers -->
+        <script src="js/controllers/PageController.js"></script>
+        <script src="js/controllers/LoginController.js"></script>
+        <script src="js/controllers/RegisterUserController.js"></script>
+        <script src="js/controllers/ArtistDetailsController.js"></script>
+        <script src="js/controllers/AddArtistController.js"></script>
+        <script src="js/controllers/AllArtistsController.js"></script>
+        <script src="js/controllers/AlbumDetailsController.js"></script>
+        <script src="js/controllers/SingleDetailsController.js"></script>
+    </body>
 </html>
