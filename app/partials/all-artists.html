@@ -8,14 +8,16 @@
                         </h1>
                     </div>
                         <p>
-                        <strong>Label: </strong>{{artist.Label}}
-                        <br/>
-
-                    </p>
+                            <strong>Label: </strong> {{artist.Label}}
+                        </p>
                     <div>
+                        <p><strong>Albums:</strong></p>
                         <ul>
                             <li ng-repeat="album in artist.Albums">
-                                <a ng-href="#!/album-details/{{album.AlbumId}}">{{album.AlbumName}}</a>
+                                <a ng-href="#!/album-details/{{album.AlbumId}}">
+                                    <span class="glyphicon glyphicon-cd"></span> 
+                                    {{album.AlbumName}}
+                                </a>
                             </li>
                         </ul>                   
                     </div>

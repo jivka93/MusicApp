@@ -9,9 +9,15 @@
                     <button class="pull-right btn btn-success" ng-click="showAlbumsInfo()">{{showAlbumsText}}</button>
                 </p>
                 <div ng-show="showAlbums">
+                    <p>
+                        <strong>Albums:</strong>
+                    </p>
                     <ul>
                         <li ng-repeat="album in artist.Albums">
-                            <a href="#!/album-details/{{album.AlbumId}}">{{album.AlbumName}}</a>
+                            <a ng-href="#!/album-details/{{album.AlbumId}}">
+                                <span class="glyphicon glyphicon-cd"></span> 
+                                {{album.AlbumName}}
+                            </a>
                         </li>
                     </ul>                   
                 </div>

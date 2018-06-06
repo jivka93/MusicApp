@@ -10,7 +10,10 @@
                     <div>
                         <ul>
                             <li ng-repeat="single in artist.Albums[0].Singles">
-                                <a ng-href="#!/single-details/{{single.SingleId}}">{{single.SingleName}}</a>
+                                <a ng-href="#!/single-details/{{single.SingleId}}">
+                                    <span class="glyphicon glyphicon-music"></span> 
+                                    {{single.SingleName}}
+                                </a>
                             </li>
                         </ul>                   
                     </div>
