@@ -8,6 +8,7 @@ using System.Web.Http;
 
 namespace MusicApplication.Controllers
 {
+    [RoutePrefix("User")]
     public class UserController : ApiController
     {
         private IUserService userService;
@@ -16,6 +17,23 @@ namespace MusicApplication.Controllers
         {
             Guard.WhenArgument(userService, "userService").IsNull().Throw();
             this.userService = userService;
+        }
+
+        //[Route]
+        //[HttpPost]
+        public HttpResponseMessage Post([FromBody]User user)
+        {
+            try
+            {
+                var userToReturn = this.userService.CreateUser(user);
+                var message = Request.CreateResponse(HttpStatusCode.Created, userToReturn);
+                message.Headers.Location = new Uri(Request.RequestUri + userToReturn.UserId.ToString());
+                return message;
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ex);
+            }
         }
 
 
@@ -31,21 +49,7 @@ namespace MusicApplication.Controllers
             return Request.CreateErrorResponse(HttpStatusCode.NotFound, $"User not found.");
         }
 
-        [HttpPost]
-        public HttpResponseMessage Post([FromBody]User user)
-        {
-            try
-            {
-                var userToReturn = this.userService.CreateUser(user);
-                var message = Request.CreateResponse(HttpStatusCode.Created, userToReturn);
-                message.Headers.Location = new Uri(Request.RequestUri + userToReturn.UserId.ToString());
-                return message;
-            }
-            catch (Exception ex)
-            {
-                return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ex);
-            }
-        }
+ 
 
         [HttpPost]
         public HttpResponseMessage Put(int id, [FromBody]User user)

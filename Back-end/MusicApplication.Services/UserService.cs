@@ -84,7 +84,7 @@ namespace MusicApplication.Services
                 {
                     command.CommandType = CommandType.StoredProcedure;
                     command.Parameters.AddWithValue("@Username", user.Username);
-                    connection.Open();
+                    //connection.Open();
 
                     using (var reader = command.ExecuteReader())
                     {

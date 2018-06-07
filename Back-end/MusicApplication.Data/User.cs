@@ -15,7 +15,7 @@ namespace MusicApplication.Data
 
         public int RoleId { get; set; }
 
-        public string Role { get; set; }
+        public string Rolename { get; set; }
 
         public User()
         {
@@ -28,7 +28,7 @@ namespace MusicApplication.Data
 
         public void CastFromReader(IDataReader reader)
         {
-            if ((Convert.ToString(reader["SingleName"])) != null && (Convert.ToString(reader["SingleName"])) != string.Empty)
+            if ((Convert.ToString(reader["Username"])) != null && (Convert.ToString(reader["Username"])) != string.Empty)
             {
                 try
                 {
@@ -36,7 +36,7 @@ namespace MusicApplication.Data
                     this.Username = (string)reader["Username"];
                     this.Password = (string)reader["Password"];
                     this.RoleId = Convert.ToInt32(reader["RoleId"]);
-                    this.Role = (string)reader["Role"];
+                    this.Rolename = (string)reader["Rolename"];
                 }
                 catch (Exception)
                 {

@@ -2,9 +2,12 @@
 
 var musicApp = angular
 .module('musicApp', ['ngResource', 'ngRoute'])
-.config(function ($routeProvider, $sceDelegateProvider) {
+.config(function ($routeProvider, $httpProvider) {
 
-    $sceDelegateProvider.resourceUrlWhitelist(['^https?:\/\/(localhost:([0-9]+\.)+[a-zA-Z0-9]{1,6})?$', 'self']);
+    $httpProvider.defaults.headers.common = {};
+    $httpProvider.defaults.headers.post = {};
+    $httpProvider.defaults.headers.put = {};
+    $httpProvider.defaults.headers.patch = {};
 
     $routeProvider
         .when('/add-artist', {
