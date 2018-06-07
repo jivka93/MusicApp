@@ -44,9 +44,9 @@ namespace MusicApplication.Controllers
         {
             try
             {
-                this.artistService.CreateArtist(artist);
-                var message = Request.CreateResponse(HttpStatusCode.Created, artist);
-                message.Headers.Location = new Uri(Request.RequestUri + artist.ArtistId.ToString());
+                var artistToRetrun = this.artistService.CreateArtist(artist);
+                var message = Request.CreateResponse(HttpStatusCode.Created, artistToRetrun);
+                message.Headers.Location = new Uri(Request.RequestUri + artistToRetrun.ArtistId.ToString());
                 return message;
             }
             catch (Exception ex)
@@ -60,9 +60,9 @@ namespace MusicApplication.Controllers
         {
             try
             {
-                this.artistService.UpdateArtist(id, artist);
-                var message = Request.CreateResponse(HttpStatusCode.Accepted, artist);
-                message.Headers.Location = new Uri(Request.RequestUri + artist.ArtistId.ToString());
+                var artistToReturn = this.artistService.UpdateArtist(id, artist);
+                var message = Request.CreateResponse(HttpStatusCode.Accepted, artistToReturn);
+                message.Headers.Location = new Uri(Request.RequestUri + artistToReturn.ArtistId.ToString());
                 return message;
             }
             catch (Exception ex)
@@ -77,8 +77,12 @@ namespace MusicApplication.Controllers
         {
             try
             {
-                this.artistService.DeleteArtist(id);
-                return Request.CreateResponse(HttpStatusCode.OK);
+                bool result = this.artistService.DeleteArtist(id);
+                if (result)
+                {
+                    return Request.CreateResponse(HttpStatusCode.OK);
+                }
+                return Request.CreateErrorResponse(HttpStatusCode.NotFound, $"Artist with Id = {id} not found.");
             }
             catch (Exception ex)
             {
@@ -86,5 +90,4 @@ namespace MusicApplication.Controllers
             }
         }
     }
-
 }

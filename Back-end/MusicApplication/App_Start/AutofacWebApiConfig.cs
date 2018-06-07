@@ -39,6 +39,10 @@ namespace MusicApplication.App_Start
                 .Register<ISingleService>(x => new SingleService(connectionString))
                 .SingleInstance();
 
+            builder
+                .Register<IUserService>(x => new UserService(connectionString))
+                .SingleInstance();
+
             Container = builder.Build();
 
             return Container;

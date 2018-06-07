@@ -1,6 +1,6 @@
 'use strict';
 
-musicApp.factory('artistData', function($http, $routeParams, $log) {
+musicApp.factory('registerUser', function($http, user) {
     return {
         getArtist: function (successcb) {
             $http({ method: 'GET', url: 'http://localhost:56148/api/Artist/' + $routeParams.id })

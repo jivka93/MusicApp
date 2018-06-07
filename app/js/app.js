@@ -2,7 +2,10 @@
 
 var musicApp = angular
 .module('musicApp', ['ngResource', 'ngRoute'])
-.config(function ($routeProvider) {
+.config(function ($routeProvider, $sceDelegateProvider) {
+
+    $sceDelegateProvider.resourceUrlWhitelist(['^https?:\/\/(localhost:([0-9]+\.)+[a-zA-Z0-9]{1,6})?$', 'self']);
+
     $routeProvider
         .when('/add-artist', {
             templateUrl: 'partials/add-artist.html'
