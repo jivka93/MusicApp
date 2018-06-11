@@ -718,3 +718,6 @@ D:\MusicApp\MusicApp\Back-end\MusicApplication\obj\Debug\MusicApplication.csproj
 D:\MusicApp\MusicApp\Back-end\MusicApplication\obj\Debug\MusicApplication.csproj.CopyComplete
 D:\MusicApp\MusicApp\Back-end\MusicApplication\obj\Debug\MusicApplication.dll
 D:\MusicApp\MusicApp\Back-end\MusicApplication\obj\Debug\MusicApplication.pdb
+D:\MusicApp\MusicApp\Back-end\MusicApplication\bin\System.Web.Cors.dll
+D:\MusicApp\MusicApp\Back-end\MusicApplication\bin\System.Web.Http.Cors.dll
+D:\MusicApp\MusicApp\Back-end\MusicApplication\bin\System.Web.Http.Cors.xml

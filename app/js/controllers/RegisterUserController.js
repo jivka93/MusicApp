@@ -1,6 +1,6 @@
 'use strict';
 
-musicApp.controller('RegisterUserController', 
+musicApp.controller('RegisterUserController',
     function RegisterUserController($scope, $http, $sce) {
 
         $scope.showPasswordError = false;
@@ -15,42 +15,27 @@ musicApp.controller('RegisterUserController',
             } else {
                 $scope.showPasswordError = false;
 
-                var url = 'http://localhost:56148/User/';
-
-                var user = {
-                    username: $scope.user.username,
-                    password: $scope.user.password
-                };
-
-                var json = JSON.stringify(user);
+                var url = 'http://localhost:56148/User';
 
                 var config = {
                     method: 'POST',
-                    data: json,
-                    headers : {
-                        'Accept': 'application/json',
+                    url: $sce.trustAsResourceUrl(url),
+                    data: {
+                        'Username': $scope.user.username,
+                        'Password': $scope.user.password
+                     },
+                    headers: {
                         'Content-Type': 'application/json;'
                     }
-                }
+                };
 
-
-                var promise = $http.post($sce.trustAsResourceUrl(url), [config]);
-
-                // $http.jsonp('http://localhost:56148/api/User', [config])
-                //     .then(function(response) {
-                //         // success callback
-                //         console.log("Sent Orders Successfully!")
-                // });
-
-                // $http.jsonp('http://localhost:56148/api/User', user)
-                // .then(function(response) {
-                //     // success callback
-                //     console.log("Sent Orders Successfully!")
-                // },
-                // function(response) {
-                //     // failure call back
-                //      console.log("Error while sending orders")
-                // });
+                $http(config)
+                    .then(function success(response) {
+                        console.log('success!');
+                    }, function error(response) {
+                        console.log('error!');
+                    }
+                );
             }
         };
 

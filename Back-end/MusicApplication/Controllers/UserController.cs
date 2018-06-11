@@ -5,10 +5,12 @@ using System;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace MusicApplication.Controllers
 {
     [RoutePrefix("User")]
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class UserController : ApiController
     {
         private IUserService userService;
@@ -20,7 +22,8 @@ namespace MusicApplication.Controllers
         }
 
         //[Route]
-        //[HttpPost]
+        //[AcceptVerbs("POST")]
+        [HttpPost]
         public HttpResponseMessage Post([FromBody]User user)
         {
             try
@@ -51,7 +54,7 @@ namespace MusicApplication.Controllers
 
  
 
-        [HttpPost]
+        [HttpPut]
         public HttpResponseMessage Put(int id, [FromBody]User user)
         {
             try

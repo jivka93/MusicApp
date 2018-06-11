@@ -32,3 +32,4 @@ D:\MusicApp\MusicApp\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\Mus
 D:\MusicApp\MusicApp\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.AssemblyInfo.cs
 D:\MusicApp\MusicApp\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.dll
 D:\MusicApp\MusicApp\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.pdb
+D:\MusicApp\MusicApp\Back-end\MusicApplication.Data\obj\Debug\netstandard2.0\MusicApplication.Data.csprojResolveAssemblyReference.cache
