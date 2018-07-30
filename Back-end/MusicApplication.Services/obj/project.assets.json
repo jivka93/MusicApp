@@ -833,27 +833,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jivka\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\jivka.ignatova\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MusicApp\\MusicApp\\music-app\\Back-end\\MusicApplication.Services\\MusicApplication.Services.csproj",
+      "projectUniqueName": "C:\\Users\\jivka.ignatova\\Repos\\MusicApp\\Back-end\\MusicApplication.Services\\MusicApplication.Services.csproj",
       "projectName": "MusicApplication.Services",
-      "projectPath": "D:\\MusicApp\\MusicApp\\music-app\\Back-end\\MusicApplication.Services\\MusicApplication.Services.csproj",
-      "packagesPath": "C:\\Users\\Jivka\\.nuget\\packages\\",
-      "outputPath": "D:\\MusicApp\\MusicApp\\music-app\\Back-end\\MusicApplication.Services\\obj\\",
+      "projectPath": "C:\\Users\\jivka.ignatova\\Repos\\MusicApp\\Back-end\\MusicApplication.Services\\MusicApplication.Services.csproj",
+      "packagesPath": "C:\\Users\\jivka.ignatova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jivka.ignatova\\Repos\\MusicApp\\Back-end\\MusicApplication.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jivka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\jivka.ignatova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -865,8 +862,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\MusicApp\\MusicApp\\music-app\\Back-end\\MusicApplication.Data\\MusicApplication.Data.csproj": {
-              "projectPath": "D:\\MusicApp\\MusicApp\\music-app\\Back-end\\MusicApplication.Data\\MusicApplication.Data.csproj"
+            "C:\\Users\\jivka.ignatova\\Repos\\MusicApp\\Back-end\\MusicApplication.Data\\MusicApplication.Data.csproj": {
+              "projectPath": "C:\\Users\\jivka.ignatova\\Repos\\MusicApp\\Back-end\\MusicApplication.Data\\MusicApplication.Data.csproj"
             }
           }
         }
